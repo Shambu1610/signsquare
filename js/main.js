@@ -71,7 +71,7 @@ document.querySelectorAll(".section__head, .about__grid, .service, .process li, 
 });
 
 // Quote form: opens WhatsApp with the enquiry prefilled (no backend needed)
-const WHATSAPP = "96800000000"; // TODO: replace with real number
+const WHATSAPP = "96895169105";
 document.getElementById("quoteForm").addEventListener("submit", (e) => {
   e.preventDefault();
   const d = new FormData(e.target);
